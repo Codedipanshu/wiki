@@ -1,3 +1,4 @@
-# Python
-
-Python is a programming language that can be used both for writing **command-line scripts** or building **web applications**.
+# Python
+
+Python is a programming language that can be used both for writing **command-line scripts** or building **web applications**.
+Python is also a reptile native to South and South-east Asia. It is the largest reptile on the planet in terms of length and can go up to length of approximately 7 meters. it come in category of constrictors and lives mainly in evergreen forests of Indian and Burmese hills. Burmese python was also used as an exotic pet in USAs state of Florida and now it is termed as invasive species there. In Australia too, Burmese python are wrecking havoc on indigenous fauna. 
